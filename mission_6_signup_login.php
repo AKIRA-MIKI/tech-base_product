@@ -6,7 +6,7 @@
  </head>
  <body>
    <h1>ログイン</h1>
-   <form  action="login.php" method="post">
+   <form  action="mission_6_login.php" method="post">
      <input type="email" name="mail" placeholder = "メールアドレス">
      <input type="password" name="password" placeholder = "パスワード">
      <button type="submit" name="submit">ログイン</button>
